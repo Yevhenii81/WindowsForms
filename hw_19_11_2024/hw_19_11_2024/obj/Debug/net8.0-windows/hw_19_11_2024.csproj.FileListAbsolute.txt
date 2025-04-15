@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\bin\Debug\net8.0-windows\hw_19_11_2024.exe
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\bin\Debug\net8.0-windows\hw_19_11_2024.deps.json
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\bin\Debug\net8.0-windows\hw_19_11_2024.runtimeconfig.json
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\bin\Debug\net8.0-windows\hw_19_11_2024.dll
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\bin\Debug\net8.0-windows\hw_19_11_2024.pdb
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.Form1.resources
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.AssemblyInfo.cs
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.dll
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\refint\hw_19_11_2024.dll
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.pdb
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\hw_19_11_2024.genruntimeconfig.cache
+C:\Users\USER\source\repos\hw_19_11_2024\hw_19_11_2024\obj\Debug\net8.0-windows\ref\hw_19_11_2024.dll
